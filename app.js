@@ -10,6 +10,7 @@ var textLists = [
     'JavaScripthamuzukasii',
     'konnnitiha',
     'tesutohataihenn'
+    'ruluto'
 ];
 var checkTexts = [];
 
