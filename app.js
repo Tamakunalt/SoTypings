@@ -8,7 +8,7 @@ var textLists = [
     'hanagedeteruyo',
     'SSRhaamaridenai',
     'JavaScripthamuzukasii',
-    'konnnnitiha',
+    'konnnitiha',
     'tesutohataihenn'
 ];
 var checkTexts = [];
